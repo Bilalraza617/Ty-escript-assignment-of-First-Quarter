@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // import inquirer
 import inquirer from "inquirer";
 // get answer

@@ -3,8 +3,10 @@
     "inquirer": "^9.2.22"
   },
   "name": "project00_calculater",
-  "version": "1.0.0",
+  "build": "mian.js",
+  "version": "1.0.1",
   "main": "main.js",
+  "bin": "main.js",
   "type": "module",
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
