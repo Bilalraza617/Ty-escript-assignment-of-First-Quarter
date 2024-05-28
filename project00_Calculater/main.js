@@ -40,4 +40,4 @@ switch (answer.operater) {
         break;
 }
 // Show Operation Ans
-console.log(OperaionsAns);
+console.log(Math.floor(OperaionsAns));

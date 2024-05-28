@@ -2,9 +2,9 @@
   "dependencies": {
     "inquirer": "^9.2.22"
   },
-  "name": "project00_calculater",
+  "name": "roject00_calculater",
   "build": "mian.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "main.js",
   "bin": "main.js",
   "type": "module",
