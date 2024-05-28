@@ -1,5 +1,5 @@
 {
-  "name": "Project01_number_guessing_game",
+  "name": "roject01_number_guessing-game",
   "version": "1.0.0",
   "main": "index.js",
   "bin": "main.js",
