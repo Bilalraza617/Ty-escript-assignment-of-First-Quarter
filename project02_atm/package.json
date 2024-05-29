@@ -1,6 +1,6 @@
 {
   "name": "project02_umber_guessing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "main.js",
   "bin": "main.js",
   "type": "module",

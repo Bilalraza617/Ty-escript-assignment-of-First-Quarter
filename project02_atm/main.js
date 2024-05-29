@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-console.log("\nId : 123, Pin : 1234, Blance : 100\n");
+console.log("\nId : 123, Pin : 1234, Balance : 100.\n");
 console.log("Plaese enter your Id and Pin.\n");
 // Global variable
 let curMOney = 100;
